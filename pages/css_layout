@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <meta charset="utf-8">
+        <title>Сайт Юрьева Артёма</title>
+        <script src="infa.js"></script>
+    </head>
+    <body>
+        <h1>CSS оформление</h1>
+
+        <p></p>
+        
+        <ol>
+            <li> <a href="../index.html"> Главная страница </a> </li>
+            <li> <a href="html_layout.html"> HTML верстка </a> </li>
+            <li> <a href="js_coding.html"> JS программирование</a> </li>
+        </ol>
+        
+    </body>
+</html>
