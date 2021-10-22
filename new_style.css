@@ -1,0 +1,30 @@
+header {
+    width: 800px;
+    height: 80px;
+    background-color: brown;
+}
+main {
+    width: 800px;
+    height: 80px;
+    background-color: rgb(42, 165, 73);
+}
+article.article1 {
+    width: 800px;
+    height: 80px;
+    background-color: rgb(153, 165, 42);
+}
+footer {
+    width: 800px;
+    height: 80px;
+    background-color: rgb(54, 42, 165);
+}
+article.article2 {
+    width: 800px;
+    height: 80px;
+    background-color: rgb(77, 77, 72);
+}
+nav {
+    width: 800px;
+    height: 80px;
+    background-color: rgb(216, 120, 30);
+}
